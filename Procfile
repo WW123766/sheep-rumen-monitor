@@ -1,1 +1,1 @@
-web: python sheep_rumen_health.py
+web: gunicorn sheep_rumen_health:app
