@@ -1,5 +1,0 @@
-[build]
-builder = "railpack"
-
-[deploy]
-startCommand = "gunicorn sheep_rumen_health:app"
