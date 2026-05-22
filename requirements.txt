@@ -1,0 +1,15 @@
+flask
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
+lightgbm
+catboost
+optuna
+torch
+pytorch-tabnet
+mealpy
+shap
+joblib
