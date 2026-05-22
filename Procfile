@@ -1,1 +1,1 @@
-web: sheep_rumen_health.py
+web: python sheep_rumen_health.py
